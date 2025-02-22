@@ -17,3 +17,6 @@ For a DNA sequence ATGCGATC, the GC content is calculated as:
  • G = 2, C = 2
  • Total bases = 8
  • GC% = (2+2) / 8 × 100 = 50%
+
+
+dataset used : FASTA file  Human breast and ovarian cancer susceptibility (BRCA1) gene, exon 2, partial flanking introns, and partial cds From NCBI 
